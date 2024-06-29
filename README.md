@@ -19,8 +19,8 @@ Steps involved:
 
 Insights :
 
-Revenue grew by 28.77%
-Total revenue stands at $55 million
-Total interest amounts to $7.8 million
-Total transaction volume is $45 million
-Additional insights are readily available on the dashboard.
+-> Revenue grew by 28.77%
+-> Total revenue stands at $55 million
+-> Total interest amounts to $7.8 million
+-> Total transaction volume is $45 million
+-> Additional insights are readily available on the dashboard.
